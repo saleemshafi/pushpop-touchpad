@@ -1,0 +1,6 @@
+[submodule "assets/www/src"]
+	path = assets/www/src
+	url = git://github.com/saleemshafi/pushpop.git
+[submodule "www/src"]
+	path = www/src
+	url = git://github.com/saleemshafi/pushpop.git
