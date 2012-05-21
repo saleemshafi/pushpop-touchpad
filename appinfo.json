@@ -1,7 +1,7 @@
 {
-	"id": "com.palm.app.pushpop",
+	"id": "shafi.pushpop",
 	"version": "1.0.0",
-	"vendor": "Saleem Shafi",
+	"vendor": "Mohammed Shafi",
 	"type": "web",
 	"main": "www/src/index.html",
 	"title": "PushPop",
