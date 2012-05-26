@@ -1,10 +1,11 @@
 {
 	"id": "shafi.pushpop",
-	"version": "1.0.0",
+	"version": "1.0",
 	"vendor": "Mohammed Shafi",
 	"type": "web",
 	"main": "www/src/index.html",
 	"title": "PushPop",
-	"icon": "icon.png",
+	"icon": "www/src/pushpoplogo_48.png",
 	"uiRevision": 2
+	"keywords": ["Push", "Pop", "Pushpop", "Push pop"]
 }
